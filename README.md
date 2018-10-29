@@ -1,2 +1,2 @@
 # Psychic-Game
-[https://kcnnn.github.io/Psychic-Game/](Try it)
+[try it](https://kcnnn.github.io/Psychic-Game/)
